@@ -19,7 +19,7 @@ This project trains a model to **fill in Sudoku puzzles** from a CSV dataset of 
 
 ```
 sudoku-solver/
-│── sudoku_solver.py      # Script version of the solver
+│── main.py      # Script version of the solver
 │── sudoku.csv            # Dataset (downloaded from Kaggle)
 │── README.md             # Project documentation
 ```
